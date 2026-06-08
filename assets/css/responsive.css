@@ -1,0 +1,818 @@
+
+@media only screen and (max-width: 1750px) {
+  .container-fluid
+  {
+    max-width:95%;
+  }
+  .frm
+  {
+    max-width: 360px;
+  }
+  .banerBox1 h5
+  {
+    font-size: 20px;
+  }
+  .banerBox1 p
+  {
+    font-size: 16px;
+  }
+  .appointmentInner h3 {
+    font-size: 60px;
+  }
+  .appointmentSection
+  {
+    background-size: cover;
+  }
+  .banerBox {
+   width: 90%;
+  }
+  .banner-slide {
+    margin-left: 1%;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .full img {
+    margin-bottom: 40px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .full img {
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (max-width: 570px) {
+  .full img {
+    margin-bottom: 20px;
+  }
+}
+.frm h4 {
+  font-size: 24px;
+}
+@keyframes marqueeTop {
+  0% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    -webkit-transform: translate3d(0, -200%, 0);
+    transform: translate3d(0, -200%, 0);
+  }
+}
+@keyframes marqueeBottom {
+  0% {
+    -webkit-transform: translate3d(0, -200%, 0);
+    transform: translate3d(0, -200%, 0);
+  }
+  100% {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+.top-left img {
+  max-width: 125px;
+  left: -17px;
+  top: -26px;
+}
+
+@media only screen and (max-width: 1550px) {
+  .banner-text h2
+  {
+    font-size: 46px;
+  }
+  .banner-text h1 {
+    font-size: 36px;
+  }
+  .banerBox {
+    width: 100%;
+    padding: 23px 24px;
+  }
+  .banerBox1 h5 {
+    font-size: 20px;
+  }
+  .frm
+  {
+    max-width: 300px;
+    padding: 25px 16px;
+  }
+  .banerBox1 p
+  {
+    font-size: 16px;
+  }
+  .appointmentInner h3 {
+    font-size: 50px;
+  }
+  .appointmentInner h5
+  {
+    font-size: 28px;
+  }
+  .appointmentSection
+  {
+    padding: 70px 0;
+    min-height: inherit;
+  }
+  .attractionInner {
+    padding: 0 0 0 0px;
+    max-width: 100%;
+  }
+  .gallerySection {
+    padding: 0px 0 80px;
+  }
+  .exhibitionInner h4 {
+    font-size: 20px;
+  }
+  .exhibitionInner p {
+    font-size: 16px;
+  }
+  .banner-text {
+    width: 32%;
+ }
+ .frm h4 {
+    font-size: 18px;
+  }
+}
+@media only screen and (max-width: 1350px) {
+
+  .why-text p {
+    font-size: 15px;
+  }
+  .why-text h5
+  {
+    font-size: 18px;
+  }
+ .btns ul li a {
+  font-size: 16px;
+ }
+  .appointmentInner h3 {
+    font-size: 45px;
+  }
+  .ft-address
+  {
+    min-width: auto !important;
+  }
+  .banerBox {
+    width: 100%;
+    padding: 23px 10px;
+  }
+  .banerBox1 h5
+  {
+    font-size: 18px;
+  }
+   .banerBox1 p {
+    font-size: 14px;
+  }
+  .line {
+    height: 50px;
+    margin: 0 5px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .banner .frm 
+  {
+    display: none;
+  }
+  .mob-frm
+  {
+    display: block;
+  }
+
+  .mob-frm .frm {
+    max-width: 350px;
+    position: relative;
+    right: 0;
+    top: 0;
+    box-shadow: 0 10px 10px #ccc;
+    margin:40px auto 10px;
+    background-color: rgb(51, 22, 92);
+  }
+.banner-slide {
+  width: 59%;
+  margin-left: 0;
+}
+.banner-text {
+  width: 38%;
+}
+.appointmentInner h3 {
+  font-size: 36px;
+}
+.btns ul
+{
+  gap: 5px;
+}
+.btns ul li a
+{
+  font-size: 14px;
+}
+.attractionInner h4
+{
+  font-size: 36px;
+}
+ .appointmentSection {
+    padding: 50px 0;
+    background-size: cover;
+  }
+.ft-dec p
+{
+  font-size: 15px;
+}
+.ft-dec h4, .ft-social h4 {
+  font-size: 18px;
+}
+.why-pic {
+  height: 350px;
+}
+.why-pic img {
+  object-fit: cover;
+}
+.attractionInner p {
+  font-size: 16px;
+}
+.exhibitionInner
+{
+  padding: 15px;
+}
+ .exhibitionInner h4 {
+    font-size: 18px;
+  }
+  .exhibitionSection .owl-theme .owl-nav
+  {
+    bottom: -89px;
+  }
+  .appointmentInner h5 {
+    font-size: 24px;
+  }
+  .btns > div
+  {
+    padding: 10px 10px;
+  }
+  
+
+.fr-dec
+{
+  display: none;
+}
+.fr-mb
+{
+  display: block;
+}
+
+.banner-flx {
+  justify-content: space-between;
+}
+.banerBox1 h5 {
+    font-size: 17px;
+}
+.banerBox {
+    min-height: auto;
+  }
+  .banerBox1 p {
+    font-size: 14px;
+  }
+.line {
+  height: 54px;
+}
+}
+@media only screen and (max-width: 1024px) {
+ .banner-text h2 {
+    font-size: 36px;
+  }
+  .banner-text h1 {
+    font-size: 28px;
+  }
+  .banner-text h4
+  {
+    font-size: 20px;
+  }
+
+
+}
+@media only screen and (max-width: 992px) {
+ .appointmentInner h5
+ {
+  font-size: 22px;
+ }
+ .appointmentInner h3 {
+    font-size: 30px;
+  }
+.heading h2
+{
+  font-size: 42px;
+}
+.ft-logo
+{
+  width: 100% !important;
+  max-width: 100% !important;
+}
+.footer-flx > div {
+  max-width: 48%;
+  width: 49%;
+}
+.exhibitionSection .owl-theme .owl-nav {
+    bottom: -72px;
+}
+ .banner-text {
+    width: 50%;
+  }
+  .banner-slide {
+    width: 50%;
+  }
+   .attractionInner h4 {
+    font-size: 30px;
+  }
+.appointmentInner h5 {
+    font-size: 20px;
+  }
+.btns ul li a
+{
+  padding: 10px 10px;
+}
+.attractionInner p
+{
+  min-height: 50px;
+}
+.thankyou-banners h1
+{
+  font-size: 30px;
+}
+.thankyou-banners h2
+{
+  font-size: 24px;
+}
+.thankyou-banners
+{
+  padding: 130px 0 100px;
+}
+.frm h4 {
+  font-size: 24px;
+}
+
+
+
+}
+@media only screen and (max-width: 881px) {
+
+.footer-flx {
+  flex-wrap: wrap;
+}
+.footer-flx > div {
+  max-width: 48%;
+}
+ 
+ .heading h2 {
+    font-size: 36px;
+  }
+.why-flx {
+  flex-wrap: wrap;
+}
+.why-full {
+  width: 48%;
+}
+.appointmentInner h3 {
+  font-size: 22px;
+}
+ .appointmentInner h5 {
+    font-size: 20px;
+  }
+ .banner-text h1 {
+    font-size: 31px;
+  }
+  .banner-text h2 {
+    font-size: 40px;
+  }
+  .banner-text h4
+  {
+    font-size: 24px;
+  }
+  .banerBox1 h5 {
+    font-size: 18px;
+  }
+  .banerBox {
+    padding: 20px 18px;
+  }
+.banner, .banner-slide
+{
+  height: 530px;
+}
+.exhibitionSection .owl-carousel .owl-nav button.owl-next, .exhibitionSection .owl-carousel .owl-nav button.owl-prev
+{
+   width: 50px;
+   height: 50px;
+}
+.whyChooseSection .owl-carousel .owl-nav button.owl-next, .whyChooseSection .owl-carousel .owl-nav button.owl-prev {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid #3F186A;
+}
+.whyChooseSection .owl-theme .owl-nav span {
+  color: #3F186A;
+  font-size: 40px;
+  line-height: 25px;
+}
+ .banerBox1 p {
+    font-size: 14px;
+  }
+
+}
+@media only screen and (max-width: 767px) {
+.banner-flx
+{
+  flex-direction: column-reverse;  
+}
+
+.banner-slide {
+    width: 100%;
+}
+.banner-text {
+    width: 100%;
+    padding: 40px 0 0 0;
+    text-align: center;
+}
+.banner-slide {
+    height: 320px;
+}
+.mob-frm .frm
+{
+  margin: 120px auto 10px;
+}
+ .banerBox {
+    max-width: 420px;
+    margin: 20px auto 0;
+    min-height: 60px;
+  }
+  .attractionInner {
+    max-width: 100%;
+    text-align: center;
+  }
+.exhibitionSection
+{
+  padding: 30px 0 0;
+}
+.attractionSection .heading
+{
+  display: block;
+}
+.attractionInner h4
+{
+  display: none;
+}
+header {
+  padding: 17px 0;
+  height: 71px;
+}
+.banner
+{
+  margin: 0px 0 0 0;
+}
+
+.appointmentSection {
+  background: url(../images/schdule-bg-mobile.webp) no-repeat;
+  background-size: 100%;
+  min-height: 600px;
+}
+.appointmentInner
+{
+  width: 100%;
+  max-width: 100%;
+}
+ .appointmentInner h5 {
+    font-size: 26px;
+  }
+   .appointmentInner h3 {
+    font-size: 40px;
+  }
+
+.for-dec
+{
+  display: none;
+}
+.for-mob
+{
+  display: block;
+}
+ .for-mob .owl-carousel .owl-nav button.owl-next, .for-mob .owl-carousel .owl-nav button.owl-prev {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid #3F186A;
+}
+.for-mob .owl-theme .owl-nav span {
+  color: #3F186A;
+  font-size: 40px;
+  line-height: 25px;
+}
+.why-full {
+    width: 100%;
+  }
+.exhibitionSection .for-mob .item {
+  display: block;
+  margin:0 0 20px 0;
+}
+
+.exhibitionSection .for-mob .exhibitionInner {
+  box-sizing: border-box;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-height: 260px;
+}
+
+.exhibitionSection .for-mob .exhibitionInner h4 {
+  margin: 0 0 8px 0;
+}
+
+.exhibitionSection .for-mob .exhibitionInner p {
+  margin: 0;
+}
+
+.exhibitionSection .for-mob .exhibitionInner .exhibitionInnerIcon img {
+  max-height: 60px;
+  object-fit: contain;
+}
+
+/* ensure owl stage height doesn't collapse between slides */
+.exhibitionSection .for-mob .owl-stage-outer {
+  min-height: 260px;
+}
+ .exhibitionSection .for-mob .owl-carousel .owl-nav button.owl-next, .exhibitionSection .for-mob .owl-carousel .owl-nav button.owl-prev
+ {
+  border: 1px solid #fff;
+ }
+.exhibitionSection .for-mob .owl-theme .owl-nav span {
+  color: #fff;
+}
+.top-left img {
+  max-width: 120px;
+  top: -13px;
+}
+.fx-wrp
+{
+  display: block !important;
+  text-align: center;
+}
+.fx-wrp img {
+  max-height: 400px;
+}
+.fx-wrp .flx-1, .fx-wrp .flx-2
+{
+  justify-content: center;
+  align-items: center;
+}
+
+.fx-wrp .verify-button
+{
+  justify-content: center;
+}
+.awardSection {
+  padding: 30px 0;
+}
+.award-flx {
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+.awardPic {
+  width: 45%;
+  max-width: 150px;
+}
+.awardPic img {
+  width: 100%;
+  height: auto;
+  max-height: 100px;
+}
+.participatingSection .owl-carousel {
+  margin: 0px 0 20px;
+}
+.attraction-flx {
+  margin-bottom: 30px;
+}
+.row.mt-4.for-mob, .row.mt-4
+{
+  margin-top: 0px !important;
+}
+.attractionInner h5 {
+  font-size: 26px;
+}
+.schoolLogo
+{
+  height: auto;
+}
+.attractionInner h5
+{
+  display: none;
+}
+
+}
+@media only screen and (max-width: 570px) {
+
+.heading h2 {
+    font-size: 26px;
+  }
+  .exhibitionInner
+  {
+    min-height: 280px;
+  }
+.full {
+  overflow: hidden;
+}
+.full img {
+  height: 100px;
+  width: 200%;
+  max-width: 200%;
+  margin-left: -50%;
+}
+.award-flx
+{
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-around;
+}
+.awardPic
+{
+  width: 48%;
+  max-width: 140px;
+}
+.awardPic img {
+  width: 100%;
+  height: auto;
+  max-height: 90px;
+}
+.participatingSection
+{
+  padding: 0px 0 30px;
+}
+.eventSection {
+  height: 400px;
+}
+.exhibitionInner h4 {
+    font-size: 18px;
+  }
+  .exhibitionInner p {
+    font-size: 16px;
+  }
+.exhibitionInner {
+    padding: 10px;
+  }
+.banner
+{
+  background: url(../images/banner-bg-mobile.webp) no-repeat;
+  background-size: 100% 100%;
+}
+.banner-text {
+  padding: 30px 0 0 0;
+}
+.attractionpic
+{
+  display: none;
+}
+.attractionpic-mobile
+{
+  display: block;
+  text-align: center;
+}
+
+.footer-flx > div {
+  max-width: 100%;
+  width: 100%;
+}
+.banner-text h2 {
+  margin: 0 0 3px;
+}
+.banner-text h1 {
+  font-size: 31px;
+  margin: 0 0 0px 0;
+}
+ .banerBox {
+    margin: 60px auto 0;
+    min-height: auto;
+    padding: 20px 10px;
+  }
+.whychooseSection, .whyChooseSection
+{
+  padding: 30px 0;
+}
+ .gallerySection {
+    padding: 20px 0 40px;
+    
+  }
+.line {
+  height: 44px;
+}
+.mobile-btn
+{
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  visibility: visible;
+  height: auto;
+  text-align: center;
+}
+.mobile-btn .btn-1, .mobile-btn .btn-2  
+{
+  width: 100%;
+  height: 60px;
+}
+.mobile-btn .btn-1
+{
+  background: linear-gradient(270deg, #000E38 0%, #3F186A 100%);
+  border: none;
+}
+.mobile-btn .btn-2
+{
+  background: linear-gradient(270deg, #FED185 0%, #C38F59 100%);
+  border: none;
+}
+.mobile-btn .btn-2 a
+{
+  color: #000;
+  text-align: center;
+}
+ .mobile-btn .btn-2 a, .mobile-btn .btn-1 a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+  }
+.appointmentInner h3 {
+    font-size: 26px;
+  }
+ .appointmentInner h5 {
+    font-size: 20px;
+  }
+.appointmentSection
+{
+  background-size: cover;
+  min-height: 550px;
+}
+footer
+{
+  padding: 50px 0 50px;
+}
+.ft-logo img
+{
+  margin-left: -15px;
+}
+.top-right
+{
+  display: none;
+}
+.swiper::before
+{
+  top: -87px;
+  left: -21%;
+  width: 141%;
+  height: 102px;
+}
+.swiper::after
+{
+  bottom: -87px;
+  left: -21%;
+  width: 141%;
+  height: 102px;
+}
+.banner-text h4
+{
+  font-size: 20px;
+}
+.banerBox::before {
+  height: 89%;
+  border: 1.33px dotted #00000021;
+}
+.last-footer
+{
+  margin: 0 0 50px 0;
+}
+.banerBox1
+{
+  width: 48%;
+}
+.banerBox1 p {
+    font-size: 13px;
+  }
+.banerBox1 h5 {
+    font-size: 16px;
+  }
+ .thankyou-banners h2 {
+    font-size: 19px;
+  }
+.thankyou-banners .p-5 {
+  padding: 2rem 0 0 0 !important;
+}
+.ft-logo img {
+    max-width: 150px;
+}
+  .exhibitionSection .owl-theme .owl-nav {
+    bottom: -80px;
+  }
+
+
+}

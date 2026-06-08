@@ -1,0 +1,12 @@
+{
+  "name": "gurugram-accessibility-tests",
+  "version": "1.0.0",
+  "description": "Accessibility test helpers for the Gurugram landing page (Playwright + axe)",
+  "scripts": {
+    "test:accessibility": "node test/accessibility.js"
+  },
+  "devDependencies": {
+    "axe-core": "^4.9.3",
+    "playwright": "^1.35.0"
+  }
+}
